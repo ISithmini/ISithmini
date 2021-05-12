@@ -1,9 +1,11 @@
 <h1 align="center">Hello there 👋, I'm Imasha Sithmini</h1>
 <h3 align="center">An undergraduates of Faculty of Information Technology, University of Moratuwa, Sri Lanka</h3>
 
+<h4> I'm a responsible and a motivated girl equipped with a diverse and promising skillset, along with the ability to manage projects from the concept till completion while keeping a focused eye on the goal.🔭 </h4>
+
 </br>
 
-- 🌱 I’m currently learning to work with **ReactJs, NodeJs & Laravel**
+- 🌱 I’m currently learning to work with **ReactJs & Laravel**
 
 - 📝 I regularly write articles on tech related topics and about the projects i have worked on [https://medium.com/@imashasithmini2](https://medium.com/@imashasithmini2)
 
@@ -31,11 +33,10 @@
 </br>
 
 <div align="center" style="margin: auto; display: block" >
-    <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imashaaaa&count_private=true&show_icons=true&locale=en&theme=chartreuse-dark"ImashaSithmini" />
+    <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imashaaaa&count_private=true&show_icons=true&locale=en&theme=algolia"ImashaSithmini" />
     </p> </br>
-    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imashaaaa&theme=chartreuse-dark" alt="ImashaSithmini" />
+    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imashaaaa&theme=algolia" alt="ImashaSithmini" />
     </p></br>
-    <p align="Center" ><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Imashaaaa&&count_private=true&no-bg-true&theme=darkhub" alt="Imasha Sithmini" /></a> </p>
     </br>
     <h3 align="Center">Connect with me:</h3>
     <p align="Center">
@@ -50,3 +51,6 @@
     </p>
 
 </div>
+
+
+  <a href="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/shatter.gif?raw=true" alt="Image" height="200"></a>
