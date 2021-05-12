@@ -3,9 +3,6 @@
 
 </br></br>
 
-<p align="Center" ><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Imashaaaa&&count_private=true&no-bg-true&theme=darkhub" alt="Imasha Sithmini" /></a> </p>
-
-
 <h3 align="Center">Languages and Tools:</h3>
 </br>
 <p align="Center">
@@ -38,6 +35,8 @@
     </p>
     <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imashaaaa&theme=chartreuse-dark" alt="ImashaSithmini" />
     </p>
+    <p align="Center" ><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Imashaaaa&&count_private=true&no-bg-true&theme=darkhub" alt="Imasha Sithmini" /></a> </p>
+    </br>
     <h3 align="Center">Connect with me:</h3>
     <p align="Center">
         <a href="https://twitter.com/@ISithmini" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/Twitter.png?raw=true" alt="@isithmini" height="30" width="40" />
@@ -46,7 +45,7 @@
         </a>
         <a href="https://medium.com/@imashasithmini2" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/Medium.png?raw=true" alt="@imashasithmini2" height="30" width="40" />
         </a>
-        <a href="https://www.hackerrank.com/Imashaaaa" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/LinkedIn.png?raw=true" alt="imashaaaa" height="30" width="40" />
+        <a href="https://www.hackerrank.com/Imashaaaa" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/Hackerrank.png?raw=true" alt="imashaaaa" height="30" width="40" />
         </a>
     </p>
 
