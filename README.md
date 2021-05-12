@@ -5,6 +5,8 @@
 
 <h4> I'm a responsible and a motivated girl equipped with a diverse and promising skillset, along with the ability to manage projects from the concept till completion while keeping a focused eye on the goal.🔭 </h4>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=imashaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="ImashaSithmini" /> </p>
+
 </br>
 
 - 🌱 I’m currently learning to work with **ReactJs & Laravel**
