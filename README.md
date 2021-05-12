@@ -2,6 +2,7 @@
 <h3 align="center">An undergraduates of Faculty of Information Technology, University of Moratuwa, Sri Lanka</h3>
 
 </br>
+
 - 🌱 I’m currently learning to work with **ReactJs, NodeJs & Laravel**
 
 - 📝 I regularly write articles on tech related topics and about the projects i have worked on [https://medium.com/@imashasithmini2](https://medium.com/@imashasithmini2)
@@ -38,13 +39,13 @@
     </br>
     <h3 align="Center">Connect with me:</h3>
     <p align="Center">
-        <a href="https://twitter.com/@ISithmini" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/Twitter.png?raw=true" alt="@isithmini" height="30" width="40" />
+        <a href="https://twitter.com/@ISithmini" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/Twitter.png?raw=true" alt="@isithmini" height="30" width="35" />
         </a>  &nbsp;
-        <a href="https://linkedin.com/in/imasha-sithmini" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/LinkedIn.png?raw=true" alt="imasha-sithmini" height="30" width="80" />
+        <a href="https://linkedin.com/in/imasha-sithmini" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/LinkedIn.png?raw=true" alt="imasha-sithmini" height="30" width="100" />
         </a>&nbsp;
         <a href="https://medium.com/@imashasithmini2" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/Medium.png?raw=true" alt="@imashasithmini2" height="40" width="40" />
         </a>&nbsp;
-        <a href="https://www.hackerrank.com/Imashaaaa" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/Hackerrank.png?raw=true" alt="imashaaaa" height="40" width="40" />
+        <a href="https://www.hackerrank.com/Imashaaaa" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/Hackerrank.png?raw=true" alt="imashaaaa" height="50" width="50" />
         </a>
     </p>
 
