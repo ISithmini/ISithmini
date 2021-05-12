@@ -1,5 +1,6 @@
- <img align="center" src="https://capsule-render.vercel.app/api?animation=fadeIn&type=soft&color=blue&height=100&section=header&text=Hello%20there!%20👋,%20&desc=%20&fontSize=30&descSize=25&animation=scaleIn" />
+<img src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/shatter.gif?raw=true" width=100% height=20/>
 
+<h2>Hello There 👋, </h2>
 <h3 align="center">I'm Imasha Sithmini, An undergraduates of Faculty of Information Technology, University of Moratuwa, Sri Lanka</h3>
 
 <h4> A responsible and a motivated girl equipped with a diverse and promising skillset, along with the ability to manage projects from the concept till completion while keeping a focused eye on the goal.🔭 </h4>
@@ -53,5 +54,5 @@
 
 </div>
 
-<img src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/shatter.gif?raw=true" width=100% height=20/>
+<img src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/shatter.gif?raw=true" width=100% height=30/>
  
