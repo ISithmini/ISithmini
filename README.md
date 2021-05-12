@@ -7,8 +7,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imashaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="ImashaSithmini" /> </p>
 
-</br>
-
 - 🌱 I’m currently learning to work with **ReactJs & Laravel**
 
 - 📝 I regularly write articles on tech related topics and about the projects i have worked on [https://medium.com/@imashasithmini2](https://medium.com/@imashasithmini2)
