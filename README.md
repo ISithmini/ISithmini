@@ -1,4 +1,4 @@
- <img align="center" src="https://capsule-render.vercel.app/api?animation=fadeIn&type=soft&color=gradient&height=100&section=header&text=Hello%20there!%20👋,%20&desc=%20&fontSize=30&descSize=25&animation=scaleIn" />
+ <img align="center" src="https://capsule-render.vercel.app/api?animation=fadeIn&type=soft&color=blue&height=100&section=header&text=Hello%20there!%20👋,%20&desc=%20&fontSize=30&descSize=25&animation=scaleIn" />
 
 <h3 align="center">I'm Imasha Sithmini, An undergraduates of Faculty of Information Technology, University of Moratuwa, Sri Lanka</h3>
 
@@ -34,7 +34,7 @@
 </br>
 
 <div align="center" style="margin: auto; display: block" >
-    <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imashaaaa&count_private=true&show_icons=true&locale=en&theme=midnight-purple"ImashaSithmini" />
+    <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imashaaaa&count_private=true&show_icons=true&locale=en&theme=midnight-blue"ImashaSithmini" />
     </p> </br>
     <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imashaaaa&theme=chartreuse-dark" alt="ImashaSithmini" />
     </p></br>
