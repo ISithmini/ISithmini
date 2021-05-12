@@ -53,5 +53,5 @@
 
 </div>
 
-<img src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/shatter.gif?raw=true"/>
+<img src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/shatter.gif?raw=true" width=100% height=20/>
  
