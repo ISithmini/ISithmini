@@ -1,6 +1,6 @@
- <img align="center" src="https://capsule-render.vercel.app/api?animation=fadeIn&type=soft&color=gradient&height=180&section=header&text=Hello%20there!%20&desc=%20I'm%20Imasha%20Sithmini&fontSize=30&descSize=25&animation=scaleIn" />
+ <img align="center" src="https://capsule-render.vercel.app/api?animation=fadeIn&type=soft&color=gradient&height=100&section=header&text=Hello%20there!%20👋,%20&desc=%20&fontSize=30&descSize=25&animation=scaleIn" />
 
-<h3 align="center">An undergraduates of Faculty of Information Technology, University of Moratuwa, Sri Lanka</h3>
+<h3 align="center">I'm Imasha Sithmini, An undergraduates of Faculty of Information Technology, University of Moratuwa, Sri Lanka</h3>
 
 <h4> I'm a responsible and a motivated girl equipped with a diverse and promising skillset, along with the ability to manage projects from the concept till completion while keeping a focused eye on the goal.🔭 </h4>
 
@@ -34,9 +34,9 @@
 </br>
 
 <div align="center" style="margin: auto; display: block" >
-    <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imashaaaa&count_private=true&show_icons=true&locale=en&theme=blue-green"ImashaSithmini" />
+    <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imashaaaa&count_private=true&show_icons=true&locale=en&theme=midnight-purple"ImashaSithmini" />
     </p> </br>
-    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imashaaaa&theme=blue-green" alt="ImashaSithmini" />
+    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imashaaaa&theme=chartreuse-dark" alt="ImashaSithmini" />
     </p></br>
     </br>
     <h3 align="Center">Connect with me:</h3>
