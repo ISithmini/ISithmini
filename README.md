@@ -1,6 +1,6 @@
 <img src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/shatter.gif?raw=true" width=100% height=15/>
 
-<h2 align="center">Hello There 👋, I'm Imasha Sithmini </h2> <h5 align="center"> An undergraduates of Faculty of Information Technology, University of Moratuwa, Sri Lanka</h5>
+<h2 align="center">Hello There 👋, I'm Imasha Sithmini </h2> <h5 align="center"> An undergraduate of Faculty of Information Technology, University of Moratuwa, Sri Lanka</h5>
 
 
 <h4> I'm a responsible and a motivated girl equipped with a diverse and promising skillset, along with the ability to manage projects from the concept till completion while keeping a focused eye on the goal.🔭 </h4>
