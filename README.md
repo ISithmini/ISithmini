@@ -1,7 +1,14 @@
 <h1 align="center">Hello there 👋, I'm Imasha Sithmini</h1>
 <h3 align="center">An undergraduates of Faculty of Information Technology, University of Moratuwa, Sri Lanka</h3>
 
-</br></br>
+</br>
+- 🌱 I’m currently learning to work with **ReactJs, NodeJs & Laravel**
+
+- 📝 I regularly write articles on tech related topics and about the projects i have worked on [https://medium.com/@imashasithmini2](https://medium.com/@imashasithmini2)
+
+- 📫 Reach me via **imashasithmini2@gmail.com**
+
+</br>
 
 <h3 align="Center">Languages and Tools:</h3>
 </br>
@@ -22,14 +29,6 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 </br>
 
-- 🌱 I’m currently learning to work with **ReactJs, NodeJs & Laravel**
-
-- 📝 I regularly write articles on tech related topics and about the projects i have worked on [https://medium.com/@imashasithmini2](https://medium.com/@imashasithmini2)
-
-- 📫 Reach me via **imashasithmini2@gmail.com**
-
-</br>
-
 <div align="center" style="margin: auto; display: block" >
     <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imashaaaa&count_private=true&show_icons=true&locale=en&theme=chartreuse-dark"ImashaSithmini" />
     </p> </br>
@@ -39,13 +38,13 @@
     </br>
     <h3 align="Center">Connect with me:</h3>
     <p align="Center">
-        <a href="https://twitter.com/@ISithmini" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/Twitter.png?raw=true" alt="@isithmini" height="30" width="30" />
+        <a href="https://twitter.com/@ISithmini" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/Twitter.png?raw=true" alt="@isithmini" height="30" width="40" />
         </a>  &nbsp;
-        <a href="https://linkedin.com/in/imasha-sithmini" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/LinkedIn.png?raw=true" alt="imasha-sithmini" height="30" width="60" />
+        <a href="https://linkedin.com/in/imasha-sithmini" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/LinkedIn.png?raw=true" alt="imasha-sithmini" height="30" width="80" />
         </a>&nbsp;
-        <a href="https://medium.com/@imashasithmini2" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/Medium.png?raw=true" alt="@imashasithmini2" height="30" width="30" />
+        <a href="https://medium.com/@imashasithmini2" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/Medium.png?raw=true" alt="@imashasithmini2" height="40" width="40" />
         </a>&nbsp;
-        <a href="https://www.hackerrank.com/Imashaaaa" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/Hackerrank.png?raw=true" alt="imashaaaa" height="40" width="30" />
+        <a href="https://www.hackerrank.com/Imashaaaa" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/Hackerrank.png?raw=true" alt="imashaaaa" height="40" width="40" />
         </a>
     </p>
 
