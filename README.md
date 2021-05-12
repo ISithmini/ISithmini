@@ -41,7 +41,7 @@
     <p align="Center">
         <a href="https://twitter.com/@ISithmini" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/Twitter.png?raw=true" alt="@isithmini" height="30" width="35" />
         </a>  &nbsp;
-        <a href="https://linkedin.com/in/imasha-sithmini" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/LinkedIn.png?raw=true" alt="imasha-sithmini" height="30" width="100" />
+        <a href="https://linkedin.com/in/imasha-sithmini" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/LinkedIn.png?raw=true" alt="imasha-sithmini" height="30" width="120" />
         </a>&nbsp;
         <a href="https://medium.com/@imashasithmini2" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/Medium.png?raw=true" alt="@imashasithmini2" height="40" width="40" />
         </a>&nbsp;
