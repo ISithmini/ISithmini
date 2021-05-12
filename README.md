@@ -1,4 +1,4 @@
- <img align="center" src="https://capsule-render.vercel.app/api?animation=fadeIn&type=slice&color=random&height=180&section=header&text=Hello%20there!%20&desc=%20I'm%20Imasha%20Sithmini&fontSize=30&descSize=25&animation=scaleIn" />
+ <img align="center" src="https://capsule-render.vercel.app/api?animation=fadeIn&type=soft&color=gradient&height=180&section=header&text=Hello%20there!%20&desc=%20I'm%20Imasha%20Sithmini&fontSize=30&descSize=25&animation=scaleIn" />
 
 <h3 align="center">An undergraduates of Faculty of Information Technology, University of Moratuwa, Sri Lanka</h3>
 
