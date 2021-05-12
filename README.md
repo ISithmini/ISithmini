@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm Imasha Sithmini, An undergraduates of Faculty of Information Technology, University of Moratuwa, Sri Lanka</h3>
 
-<h4> I'm a responsible and a motivated girl equipped with a diverse and promising skillset, along with the ability to manage projects from the concept till completion while keeping a focused eye on the goal.🔭 </h4>
+<h4> A responsible and a motivated girl equipped with a diverse and promising skillset, along with the ability to manage projects from the concept till completion while keeping a focused eye on the goal.🔭 </h4>
 
 </br>
 
@@ -34,7 +34,7 @@
 </br>
 
 <div align="center" style="margin: auto; display: block" >
-    <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imashaaaa&count_private=true&show_icons=true&locale=en&theme=midnight-blue"ImashaSithmini" />
+    <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imashaaaa&count_private=true&show_icons=true&locale=en&theme=chartreuse-dark"ImashaSithmini" />
     </p> </br>
     <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imashaaaa&theme=chartreuse-dark" alt="ImashaSithmini" />
     </p></br>
@@ -52,4 +52,6 @@
     </p>
 
 </div>
+
+<img src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/shatter.gif?raw=true"/>
  
