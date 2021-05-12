@@ -1,4 +1,5 @@
-<h1 align="center">Hello there 👋, I'm Imasha Sithmini</h1>
+ <img align="center" src="https://capsule-render.vercel.app/api?animation=fadeIn&type=slice&color=random&height=180&section=header&text=Hello%20there!%20&desc=%20I'm%20Imasha%20Sithmini&fontSize=30&descSize=25&animation=scaleIn" />
+
 <h3 align="center">An undergraduates of Faculty of Information Technology, University of Moratuwa, Sri Lanka</h3>
 
 <h4> I'm a responsible and a motivated girl equipped with a diverse and promising skillset, along with the ability to manage projects from the concept till completion while keeping a focused eye on the goal.🔭 </h4>
@@ -33,9 +34,9 @@
 </br>
 
 <div align="center" style="margin: auto; display: block" >
-    <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imashaaaa&count_private=true&show_icons=true&locale=en&theme=algolia"ImashaSithmini" />
+    <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imashaaaa&count_private=true&show_icons=true&locale=en&theme=blue-green"ImashaSithmini" />
     </p> </br>
-    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imashaaaa&theme=algolia" alt="ImashaSithmini" />
+    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imashaaaa&theme=blue-green" alt="ImashaSithmini" />
     </p></br>
     </br>
     <h3 align="Center">Connect with me:</h3>
@@ -51,6 +52,4 @@
     </p>
 
 </div>
-
-
-  <a href="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/shatter.gif?raw=true" alt="Image" height="200"></a>
+ 
