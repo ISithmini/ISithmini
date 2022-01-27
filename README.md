@@ -3,13 +3,11 @@
 <h2 align="center">Hello There 👋, I'm Imasha Sithmini </h2> <h5 align="center"> An undergraduate of Faculty of Information Technology, University of Moratuwa, Sri Lanka</h5>
 
 
-<h4> A responsible and a motivated girl equipped with a diverse and promising skillset, along with the ability to manage projects from the concept till completion while keeping a focused eye on the goal.🔭 </h4>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imashaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="ImashaSithmini" /> </p>
 
 - 🌱 I’m currently learning to work with **PHP & Laravel**
 
-- 📝 I regularly write articles on tech related topics and about the projects i have worked on [https://medium.com/@imashasithmini2](https://medium.com/@imashasithmini2)
+- 📝 I write articles on tech related topics and about the projects i have worked on [https://medium.com/@imashasithmini2](https://medium.com/@imashasithmini2)
 
 - 📫 Reach me via **imashasithmini2@gmail.com**
 
