@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imashaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="ImashaSithmini" /> </p>
 
-- 🌱 I’m currently learning to work with **PHP & Laravel**
+- 🌱 I’m currently working with **React & Node** with **Typescript**
 
 - 📝 I write articles on tech related topics and about the projects i have worked on [https://medium.com/@imashasithmini2](https://medium.com/@imashasithmini2)
 
