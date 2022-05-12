@@ -1,13 +1,10 @@
 <img src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/shatter.gif?raw=true" width=100% height=15/>
 
-<h2 align="center">Hello There 👋, I'm Imasha Sithmini </h2> <h5 align="center"> An undergraduate of Faculty of Information Technology, University of Moratuwa, Sri Lanka</h5>
+<h2 align="center">Hello There 👋, I'm Imasha Sithmini </h2> 
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imashaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="ImashaSithmini" /> </p>
 
-- 🌱 I’m currently working with **React & Node** with **Typescript**
-
-- 📝 I write articles on tech related topics and about the projects i have worked on [https://medium.com/@imashasithmini2](https://medium.com/@imashasithmini2)
 
 - 📫 Reach me via **imashasithmini2@gmail.com**
 
