@@ -1,7 +1,7 @@
 
 <h2 align="center"> Hello There, <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> I'm Imasha Sithmini</h2>
      </br>
-   <h3>   Welcome to my Github profile! </h3>
+   <h3 align="center">   Welcome to my Github profile! </h3>
 
 </br>
 
@@ -46,7 +46,7 @@ Ask me anything **[here](https://github.com/ISithmini/ISithmini/issues/new)** or
 </br>
 
 <div align="center" style="margin: auto; display: block" >
-      <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ISithmini&theme=blueberry_duo&hide_border=true" alt="ImashaSithmini" />
+      <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ISithmini&theme=github-dark-blue" alt="ImashaSithmini" />
     </p>
     </br>
 </div>
