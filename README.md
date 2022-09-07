@@ -3,7 +3,7 @@
 <h2 align="center">Hello There 👋, I'm Imasha Sithmini </h2> 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imashaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="ImashaSithmini" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iSithmini&label=Profile%20views&color=0e75b6&style=flat" alt="ImashaSithmini" /> </p>
 
 
 - 📫 Reach me via **imashasithmini2@gmail.com**
