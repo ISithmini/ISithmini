@@ -48,8 +48,7 @@ Ask me anything **[here](https://github.com/ISithmini/ISithmini/issues/new)** or
 </br>
 
 <div align="center" style="margin: auto; display: block" >
-    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ISithmini&theme=windows-dark=&hide_border=true)" alt="ImashaSithmini" />
-    </p>
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ISithmini&theme=windows-dark&hide_border=true)](https://git.io/streak-stats)
     </br></br>
 </div>
 
