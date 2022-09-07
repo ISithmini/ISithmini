@@ -1,7 +1,7 @@
 
 <h2 align="center"> Hello There, <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> I'm Imasha Sithmini</h2>
      </br>
-   <h3>   Welcome to my Github profile!
+   <h3>   Welcome to my Github profile! </h3>
 
 </br>
 
@@ -54,13 +54,13 @@ Ask me anything **[here](https://github.com/ISithmini/ISithmini/issues/new)** or
 <h3 align="Center">Connect with me:</h3>
     <p align="Center">
             <a href="https://linkedin.com/in/imasha-sithmini" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/LinkedIn.png?raw=true" alt="imasha-sithmini" height="30" width="120" />
-        </a> &nbsp; |
+        </a> &nbsp; | &nbsp;
         <a href="https://medium.com/@imashasithmini2" target="blank"><img align="center" src="https://github.com/ISithmini/ISithmini/blob/main/Medium.png" alt="@imashasithmini2" height="40" width="40" />
-        </a>&nbsp; |
+        </a>&nbsp; | &nbsp;
      <a href="https://twitter.com/@ISithmini" target="blank"><img align="center" src="https://github.com/ISithmini/ISithmini/blob/main/Twitter.png" alt="@isithmini" height="30" width="35" />
-        </a>  &nbsp; |
+        </a>  &nbsp; | &nbsp;
         <a href="https://www.instagram.com/imashaaaa/" target="blank"><img align="center" src="https://github.com/ISithmini/ISithmini/blob/main/instagram.png" alt="@isithmini" height="30" width="35" />
-        </a>  &nbsp; |
+        </a>  &nbsp; | &nbsp;
         <a href="https://www.hackerrank.com/Imashaaaa" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/Hackerrank.png?raw=true" alt="imashaaaa" height="50" width="50" />
         </a>
     </p>
