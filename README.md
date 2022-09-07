@@ -1,29 +1,27 @@
 
-<h2 align="center"> Hello There, <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> I'm Imasha Sithmini
+<h2 align="center"> Hello There, <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> I'm Imasha Sithmini</h2>
      </br>
-     Welcome to my Github profile!
-     </h2>
+   <h3>   Welcome to my Github profile!
 
 </br>
 
 <div align="center">
 I'm a Full Stack Developer with hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
+     <br />
 
 I'm currently based in **[Gampaha, Sri Lanka](https://www.google.com/maps/place/Bemmulla/@7.1239549,80.0158026,17z/data=!4m6!3m5!1s0x3ae2fc8f8fadd98d:0xba0f04f7ee6e54d9!4b1!8m2!3d7.1224279!4d80.0204807)**
 
 <br />
 I love learning new techs and using new tools. I also love doing workouts and photography.
-<br />
+
 <br />
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
 Ask me anything **[here](https://github.com/ISithmini/ISithmini/issues/new)** or <a href="mailto:imashasithmini2@gmail.com"><b>send me an email</b></a>.
 
 </div>
-<br />
-<br />
-     
+<br />   
 
 <h3 align="Center">Languages and Tools:</h3>
 </br>
@@ -48,7 +46,7 @@ Ask me anything **[here](https://github.com/ISithmini/ISithmini/issues/new)** or
 </br>
 
 <div align="center" style="margin: auto; display: block" >
-      <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ISithmini&theme=windows-dark&hide_border=true" alt="ImashaSithmini" />
+      <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ISithmini&theme=blueberry_duo&hide_border=true" alt="ImashaSithmini" />
     </p>
     </br>
 </div>
@@ -56,13 +54,13 @@ Ask me anything **[here](https://github.com/ISithmini/ISithmini/issues/new)** or
 <h3 align="Center">Connect with me:</h3>
     <p align="Center">
             <a href="https://linkedin.com/in/imasha-sithmini" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/LinkedIn.png?raw=true" alt="imasha-sithmini" height="30" width="120" />
-        </a>&nbsp;
+        </a> &nbsp; |
         <a href="https://medium.com/@imashasithmini2" target="blank"><img align="center" src="https://github.com/ISithmini/ISithmini/blob/main/Medium.png" alt="@imashasithmini2" height="40" width="40" />
-        </a>&nbsp;
+        </a>&nbsp; |
      <a href="https://twitter.com/@ISithmini" target="blank"><img align="center" src="https://github.com/ISithmini/ISithmini/blob/main/Twitter.png" alt="@isithmini" height="30" width="35" />
-        </a>  &nbsp;
+        </a>  &nbsp; |
         <a href="https://www.instagram.com/imashaaaa/" target="blank"><img align="center" src="https://github.com/ISithmini/ISithmini/blob/main/instagram.png" alt="@isithmini" height="30" width="35" />
-        </a>  &nbsp;
+        </a>  &nbsp; |
         <a href="https://www.hackerrank.com/Imashaaaa" target="blank"><img align="center" src="https://github.com/imashaaaa/Imasha-Sithmini/blob/main/Hackerrank.png?raw=true" alt="imashaaaa" height="50" width="50" />
         </a>
     </p>
