@@ -6,6 +6,7 @@
 
 </br>
 
+<div align="center">
 I'm a Full Stack Developer with hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
 
@@ -18,8 +19,11 @@ I love learning new techs and using new tools. I also love doing workouts and ph
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
 Ask me anything **[here](https://github.com/ISithmini/ISithmini/issues/new)** or <a href="mailto:imashasithmini2@gmail.com"><b>send me an email</b></a>.
+
+</div>
 <br />
 <br />
+     
 
 <h3 align="Center">Languages and Tools:</h3>
 </br>
@@ -44,7 +48,7 @@ Ask me anything **[here](https://github.com/ISithmini/ISithmini/issues/new)** or
 </br>
 
 <div align="center" style="margin: auto; display: block" >
-    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iSithmini&theme=chartreuse-dark" alt="ImashaSithmini" />
+    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ISithmini&theme=tokyonight_duo&hide_border=true)" alt="ImashaSithmini" />
     </p>
     </br></br>
 </div>
