@@ -11,6 +11,7 @@ I'm a Full Stack Developer with hands-on experience designing, developing and im
 
 <br />
 I'm currently based in **[Gampaha, Sri Lanka](https://www.google.com/maps/place/Bemmulla/@7.1239549,80.0158026,17z/data=!4m6!3m5!1s0x3ae2fc8f8fadd98d:0xba0f04f7ee6e54d9!4b1!8m2!3d7.1224279!4d80.0204807)**
+
 <br />
 I love learning new techs and using new tools. I also love doing workouts and photography.
 
